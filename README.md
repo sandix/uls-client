@@ -1,2 +1,4 @@
 # uls-client
-ULS client unix
+ULS client linux
+
+ULS client for linux operating systems. 
